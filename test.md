@@ -1,6 +1,6 @@
 ---
 title: Name of page
-permalink: /linkgohere
+permalink: /compcogsci/linkgohere
 ---
 
 # Hello
