@@ -34,4 +34,4 @@ MH Tesler
 
 Chris Donkin
 
-[Go here](/linkgohere)
+[Test link to build the rest of the site later](/compcogsci/linkgohere)
